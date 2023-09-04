@@ -1,7 +1,7 @@
 var sum1 = prompt("kuch bh likho");
 var sum2 = prompt("kuch bh likh lo");
 
- var sum =5*4;
+//  var sum =5*4;
 
 let sum = (sum1 , sum2) => {
     return ` ${sum1} ${sum2}` 
